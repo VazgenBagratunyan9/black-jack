@@ -24,7 +24,7 @@
     "styled-components": "^5.2.3",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "https://vazgenbagratunyan9.github.io/Mafia",
+  "homepage": "https://vazgenbagratunyan9.github.io/black-jack/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
