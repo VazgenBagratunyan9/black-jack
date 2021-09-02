@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  cursor: pointer;
+  width: 210px;
+  height: 150px;
+  justify-content: center;
+  margin: 10px 0;
+  .cardsCount{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background: #afa0a0;
+    text-align: center;
+    transform: translate(100px,60px);
+    color: #ffffff;
+  }
+  .item{
+    position: absolute;
+  }
+}

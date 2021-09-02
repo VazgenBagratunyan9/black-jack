@@ -1,0 +1,15 @@
+.container{
+  display: flex;
+  position: relative;
+  .sum{
+    padding:10px;
+    background: #afa0a0;
+    border-radius: 5px;
+    color: white;
+    right: 0;
+    top: 50%;
+    right: 0;
+    transform: translate(60px ,-50%);
+    position: absolute;
+  }
+}
